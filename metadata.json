@@ -1,0 +1,9 @@
+{
+  "name": "TransitOps",
+  "description": "Smart Transport Operations Platform & Real-Time Geospatial Routing Engine",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
